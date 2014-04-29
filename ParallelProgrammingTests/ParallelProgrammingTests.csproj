@@ -53,8 +53,11 @@
     <Compile Include="BubbleSort.cs" />
     <Compile Include="CustomTaskScheduler.cs" />
     <Compile Include="AsyncUnitTests.cs" />
+    <Compile Include="FalseSharingTests.cs" />
+    <Compile Include="IOTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ThreadTests.cs" />
+    <Compile Include="ThreadWithLocks.cs" />
     <Compile Include="ThreadWithQueueTests.cs" />
   </ItemGroup>
   <Choose>
